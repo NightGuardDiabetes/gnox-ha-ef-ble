@@ -21,6 +21,13 @@ No internet connection required • Real-time status updates • Full local cont
 
 ---
 
+**Private release**
+
+This branch/version is not officially maintained by main project anymore, and its my private branch for Power Ocean Standard.
+
+
+---
+
 ## Overview
 
 This integration enables local communication with EcoFlow power stations, EV chargers,
